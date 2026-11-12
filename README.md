@@ -19,3 +19,8 @@ I like building practical projects to learn — from automation scripts to full 
 
 ### 📫 Contact
 - Email: [henriqueantunes.contato@gmail.com](mailto:henriqueantunes.contato@gmail.com)
+
+### ☕ Support
+If my projects are useful to you, you can buy me a coffee:
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-C8901E?style=for-the-badge&logo=buymeacoffee&logoColor=1E1B16&labelColor=F2E8D5)](https://buymeacoffee.com/oantuneshenriqueo)
